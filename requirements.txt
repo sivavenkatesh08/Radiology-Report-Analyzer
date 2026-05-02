@@ -1,0 +1,22 @@
+# ── Core Framework ──
+streamlit>=1.30.0
+
+# ── NLP / Transformers ──
+transformers>=4.36.0
+torch>=2.1.0
+sentence-transformers>=2.2.0
+
+# ── Computer Vision ──
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# ── OCR ──
+pytesseract>=0.3.10
+pdf2image>=1.16.0
+
+# ── Data ──
+pandas>=2.0.0
+
+# ── RAG (Vector Store) ──
+faiss-cpu>=1.7.0
